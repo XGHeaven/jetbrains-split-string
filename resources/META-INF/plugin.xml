@@ -1,17 +1,16 @@
 <idea-plugin version="2">
   <id>com.xgheaven.splitString</id>
-  <name>Plugin display name here</name>
+  <name>SplitString</name>
   <version>0.1.0</version>
-  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <vendor email="619943612@qq.com" url="https://github.com/XGHeaven/jetbrains-split-string">XGHeaven</vendor>
 
   <description><![CDATA[
-      Enter short description for your plugin here.<br>
-      <em>most HTML tags may be used</em>
+  This a plugin for split string with single quote and double quote.
+  The Action showed in <em>Tools Menu</em> -> <em>Split String</em>
     ]]></description>
 
   <change-notes><![CDATA[
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>
+  The first version
     ]]>
   </change-notes>
 
